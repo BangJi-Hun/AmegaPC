@@ -1,0 +1,9 @@
+C:\Users\JIHUN\Desktop\20061220(프로젝트)\PC\Atmega128\Atmega128\bin\Debug\Atmega128.exe.config
+C:\Users\JIHUN\Desktop\20061220(프로젝트)\PC\Atmega128\Atmega128\bin\Debug\Atmega128.exe
+C:\Users\JIHUN\Desktop\20061220(프로젝트)\PC\Atmega128\Atmega128\bin\Debug\Atmega128.pdb
+C:\Users\JIHUN\Desktop\20061220(프로젝트)\PC\Atmega128\Atmega128\obj\Debug\Atmega128.csprojResolveAssemblyReference.cache
+C:\Users\JIHUN\Desktop\20061220(프로젝트)\PC\Atmega128\Atmega128\obj\Debug\Atmega128.Form1.resources
+C:\Users\JIHUN\Desktop\20061220(프로젝트)\PC\Atmega128\Atmega128\obj\Debug\Atmega128.Properties.Resources.resources
+C:\Users\JIHUN\Desktop\20061220(프로젝트)\PC\Atmega128\Atmega128\obj\Debug\Atmega128.csproj.GenerateResource.Cache
+C:\Users\JIHUN\Desktop\20061220(프로젝트)\PC\Atmega128\Atmega128\obj\Debug\Atmega128.exe
+C:\Users\JIHUN\Desktop\20061220(프로젝트)\PC\Atmega128\Atmega128\obj\Debug\Atmega128.pdb
